@@ -46,8 +46,7 @@
 | # | Project | Description | Tools | Scale |
 |---|---------|-------------|-------|-------|
 | 🎭 | [Face Segmentation using Deep Learning](https://github.com/rajdeepsen97/face-segmentation-project) | Semantic segmentation model for accurate facial region extraction using deep learning and computer vision techniques | TensorFlow, Keras, OpenCV, NumPy | Deep Learning • Computer Vision |
-| 🎬 | [IMDb Movie Recommendation_system](https://github.com/rajdeepsen97/imdb-movie-recommendation-system) | NLP-based sentiment classification system that predicts positive or negative movie reviews using deep learning | TensorFlow, Keras, NLP, Pandas | 50,000 Reviews • Binary Classification |
-| 📊 | [Stock Market Analysis Dashboard](https://github.com/rajdeepsen97/stock-market-analysis-dashboard) | Trend, volatility, sector & correlation analysis with interactive Streamlit + Power BI dashboard | Python, Pandas, NumPy, Power BI | 50 companies • 21 sectors |
+| 🎬 | [IMDb Movie Recommendation System](https://github.com/rajdeepsen97/imdb-movie-recommendation-system) | Content-based recommendation system using cosine similarity to suggest movies with similar genres, cast, directors, and plot keywords | Python, Pandas, Scikit-learn | IMDb Dataset • Recommendation Engine || 📊 | [Stock Market Analysis Dashboard](https://github.com/rajdeepsen97/stock-market-analysis-dashboard) | Trend, volatility, sector & correlation analysis with interactive Streamlit + Power BI dashboard | Python, Pandas, NumPy, Power BI | 50 companies • 21 sectors |
 | 🍽️ | [Swiggy Restaurant Recommendation System](https://github.com/rajdeepsen97/Swiggy_Restaurant_Recommendation_System) | Content-based recommendation engine using cosine similarity with live Streamlit app | Python, Scikit-learn, Streamlit | 1,48,541 records • 821 cities |
 | 🥗 | [NutriClass Food Classification](https://github.com/rajdeepsen97/NutriClass_Project) | ML classifier to categorize food items by nutritional profile — 98.79% accuracy | Python, Random Forest, Scikit-learn | 31,700 food items • 16 features |
 | 🎫 | [Client Query Dashboard](https://github.com/rajdeepsen97/client_query_management) | Full-stack support ticket system with role-based authentication, KPI dashboards, and analytics | Python, Streamlit, MySQL | Operational Data |
@@ -69,7 +68,9 @@
 
 ## 🏆 Certifications
 
-- 🎓 **Master Data Science Program** — HCL GUVI *(IIT Madras Incubated, NASSCOM Approved)* *(Completed – May 2026)*
+| Certification | Provider | Credential |
+|--------------|----------|------------|
+| 🎓 Master Data Science Program | HCL GUVI (IIT Madras Incubated, NASSCOM Approved) | [📜 View Certificate](https://v2.zenclass.in/certificateDownload/oteMekiRhcOsOqSG) |
 
 ---
 
