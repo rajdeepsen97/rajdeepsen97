@@ -1,6 +1,6 @@
 # Hi, I'm Rajdeep Sen 👋
 
-**Data Analyst & Data Scientist | Python • SQL • Streamlit • Power BI • Machine Learning**
+**Data Analyst • Data Scientist • Machine Learning Engineer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rajdeepsen97-181717?style=for-the-badge&logo=github)](https://github.com/rajdeepsen97)
 
@@ -10,7 +10,7 @@
 
 - 🔄 Career switcher who made the leap into **Data Analytics & Data Science** — driven by a passion for turning raw data into real decisions
 - 🤖 Hands-on experience in **Machine Learning, EDA, Predictive Analytics, NLP & Interactive Dashboards**
-- 🛠️ Built **6+ end-to-end projects** spanning ML, Recommendation Systems, BI Dashboards, and AI-powered apps
+- 🛠️ Built **8+ end-to-end projects** spanning Machine Learning, Deep Learning, NLP, Computer Vision, Recommendation Systems, BI Dashboards, and AI-powered applications
 - 📍 Based in **Kolkata, India** | Open to **Remote Opportunities** globally
 - 🌱 Currently learning **cloud fundamentals** (BigQuery, AWS S3) for scalable data pipelines
 
@@ -45,12 +45,12 @@
 
 | # | Project | Description | Tools | Scale |
 |---|---------|-------------|-------|-------|
-| 📰 | [Daily News Brief Generator](https://github.com/rajdeepsen97/daily-news-brief) | AI-powered personalized news aggregator with GPT-2 summaries and Streamlit UI | Python, HuggingFace, Streamlit, NewsAPI | Multi-category • Live API |
+| 🎭 | [Face Segmentation using Deep Learning](https://github.com/rajdeepsen97/face-segmentation-project) | Semantic segmentation model for accurate facial region extraction using deep learning and computer vision techniques | TensorFlow, Keras, OpenCV, NumPy | Deep Learning • Computer Vision |
+| 🎬 | [IMDb Movie Recommendation_system](https://github.com/rajdeepsen97/imdb-movie-recommendation-system) | NLP-based sentiment classification system that predicts positive or negative movie reviews using deep learning | TensorFlow, Keras, NLP, Pandas | 50,000 Reviews • Binary Classification |
 | 📊 | [Stock Market Analysis Dashboard](https://github.com/rajdeepsen97/stock-market-analysis-dashboard) | Trend, volatility, sector & correlation analysis with interactive Streamlit + Power BI dashboard | Python, Pandas, NumPy, Power BI | 50 companies • 21 sectors |
 | 🍽️ | [Swiggy Restaurant Recommendation System](https://github.com/rajdeepsen97/Swiggy_Restaurant_Recommendation_System) | Content-based recommendation engine using cosine similarity with live Streamlit app | Python, Scikit-learn, Streamlit | 1,48,541 records • 821 cities |
 | 🥗 | [NutriClass Food Classification](https://github.com/rajdeepsen97/NutriClass_Project) | ML classifier to categorize food items by nutritional profile — 98.79% accuracy | Python, Random Forest, Scikit-learn | 31,700 food items • 16 features |
-| 💰 | [Sales & Profit Analysis](https://github.com/rajdeepsen97/sales-profit-analysis) | End-to-end EDA on Superstore data uncovering profit patterns across regions & categories, with SQL analysis | Python, Pandas, Matplotlib, SQL | 9,994 orders • 49 states |
-| 🎫 | [Client Query Dashboard](https://github.com/rajdeepsen97/client_query_management) | Full-stack support ticket system with role-based auth, real-time KPI dashboard & analytics | Python, Streamlit, MySQL | Operational Data |
+| 🎫 | [Client Query Dashboard](https://github.com/rajdeepsen97/client_query_management) | Full-stack support ticket system with role-based authentication, KPI dashboards, and analytics | Python, Streamlit, MySQL | Operational Data |
 
 ---
 
